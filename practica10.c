@@ -155,7 +155,7 @@ int main (void) {
 
     do {
       printf("Desea realizar otra operacion? (y/n)");
-      getchar("%c", &x);
+      scanf("%c", &x);
     } while(x == 'y' || x == 'n');
 
 
