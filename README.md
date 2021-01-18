@@ -26,3 +26,9 @@ una nueva linea, lo que provoca que se aplique un "enter" y el programa
 corra hasta el final consecuentemente.
 
 6.- Procedemos a la correcion del programa.
+
+7.- Despues de hacer las correcciones pertinentes programa podemos ver que
+scanf se detiene al momento de solicitar una entrada y actua de acuerdo al
+dato ingresado.
+
+8.- Terminamos con la depuracion.
