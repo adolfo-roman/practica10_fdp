@@ -18,3 +18,11 @@ el programa y que este tenga simbolos de depuracion.
 
 4.- Al momento de usar la funcion p para que imprima el valor de x
 encontramos que esta tiene un valor: 10 '\n'
+
+5.- Mientras investigamos porque x tiene un valor de 10 '\n' encontramos
+que e valor en ASCII que tiene '\n' es de 10, es por esta razon que la funcion
+scanf al momento de leer el valor de x, lo que encuentra es el valor de
+una nueva linea, lo que provoca que se aplique un "enter" y el programa
+corra hasta el final consecuentemente.
+
+6.- Procedemos a la correcion del programa.
